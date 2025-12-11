@@ -100,5 +100,5 @@ These changes reduce total processing time and improve overall student experienc
 ## Contact
 **Zachary Chai**  
 📩 zachchainy@gmail.com  
-
+🔗 LinkedIn: linkedin.com/in/zach-chai/
 
