@@ -6,7 +6,11 @@ Capstone project for Digital Innovation Concentration focused on improving Georg
 - Enhance on-campus housing experience
 - Cultivate safe, inclusive learning environment
 - Key KPIs: Retention Rate, Occupancy Rate, Cost per Student, Number of Safety Incidents, Student Satisfaction
-
+## My Role
+- Modeled AS-IS and TO-BE workflows in Bizagi Studio
+- Conducted process analysis and identified non-value-added steps
+- Created process documentation, diagrams, and KPI analysis
+- Led recommendations to streamline verification and reduce lead time
 ## Problem
 Current check-in process includes multiple verification checks performed by Resident Assistants (RAs), causing:
 - Longer wait times
@@ -29,8 +33,9 @@ Current check-in process includes multiple verification checks performed by Resi
 - Produced swim lane diagrams and documentation for stakeholders
 
 ## Files
-- **Screenshots/**: As-Is and To-Be process diagrams
-- **Docs/Project_PP.pdf**: Detailed project summary including challenges, solutions, and KPIs
+- `AS-IS.png`: Original workflow model showing current check-in process
+- `TO-BE.png`: Redesigned workflow with reduced steps
+- `Project_PP.pdf`: Full project summary with diagrams and business recommendations
 
 ## Skills Demonstrated
 - Bizagi Studio (BPMN modeling)
