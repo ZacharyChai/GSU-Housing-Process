@@ -33,10 +33,11 @@ Current check-in process includes multiple verification checks performed by Resi
 - Produced swim lane diagrams and documentation for stakeholders
 
 ## Files
-- `AS-IS.png`: Original workflow model showing current check-in process
-- `TO-BE.png`: Redesigned workflow with reduced steps
-- `Project_PP.pdf`: Full project summary with diagrams and business recommendations
+- <a href="AS-IS.png" title="My Role: Modeled the AS-IS workflow in Bizagi Studio and documented current process inefficiencies.">AS-IS.png</a>: Original workflow model showing current check-in process
 
+- <a href="TO-BE.png" title="My Role: Designed the TO-BE workflow, removed non-value-added steps, and created streamlined verification logic.">TO-BE.png</a>: Redesigned workflow with reduced steps
+
+- <a href="Project_PP.pdf" title="My Role: Wrote sections on process analysis, KPI evaluation, and recommendations for implementation.">Project_PP.pdf</a>: Full project summary with diagrams and business recommendations
 ## Skills Demonstrated
 - Bizagi Studio (BPMN modeling)
 - Process improvement & Lean Six Sigma
