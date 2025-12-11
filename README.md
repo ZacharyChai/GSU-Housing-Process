@@ -1,6 +1,6 @@
 
 ## Overview
-Capstone project for CIS 4120 focused on improving Georgia State University housing check-in processes. Goal: reduce lead time, eliminate non-value-added steps, and enhance student experience.
+Capstone project for Digital Innovation Concentration focused on improving Georgia State University housing check-in processes. Goal: reduce lead time, eliminate non-value-added steps, and enhance student experience.
 
 ## Business Context
 - Enhance on-campus housing experience
