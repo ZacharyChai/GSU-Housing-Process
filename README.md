@@ -30,7 +30,7 @@ Current check-in process includes multiple verification checks performed by Resi
 
 ## Files
 - **Screenshots/**: As-Is and To-Be process diagrams
-- **Docs/Project_Summary.pdf**: Detailed project summary including challenges, solutions, and KPIs
+- **Docs/Project_PP.pdf**: Detailed project summary including challenges, solutions, and KPIs
 
 ## Skills Demonstrated
 - Bizagi Studio (BPMN modeling)
