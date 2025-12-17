@@ -1,6 +1,6 @@
 # GSU Housing Check-In Process Optimization
 
-Capstone project focused on improving the efficiency, accuracy, and student experience of Georgia State University’s on-campus housing check-in process. Using Bizagi Studio, we mapped AS-IS and TO-BE workflows, identified non-value-added steps, and redesigned the process to reduce lead time and operational friction.
+Project focused on improving the efficiency, accuracy, and student experience of Georgia State University’s on-campus housing check-in process. Using Bizagi Studio, we mapped AS-IS and TO-BE workflows, identified non-value-added steps, and redesigned the process to reduce lead time and operational friction.
 
 ---
 
