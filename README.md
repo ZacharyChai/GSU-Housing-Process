@@ -83,7 +83,7 @@ These changes reduce total processing time and improve overall student experienc
 
 - <a href="TO-BE.png" title="My Role: Designed the TO-BE workflow, removed non-value-added steps, and created streamlined verification logic.">TO-BE.png</a>: Redesigned workflow with reduced steps  
 
-- <a href="Project_PP.pdf" title="My Role: Wrote sections on process analysis, KPI evaluation, and recommendations for implementation.">Project_PP.pdf</a>: Full project summary with diagrams and business recommendations  
+- <a href="Project PP.pdf" title="My Role: Wrote sections on process analysis, KPI evaluation, and recommendations for implementation.">Project_PP.pdf</a>: Full project summary with diagrams and business recommendations  
 
 ---
 
