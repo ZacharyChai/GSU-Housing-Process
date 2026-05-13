@@ -1,104 +1,64 @@
 # GSU Housing Check-In Process Optimization
-
-Project focused on improving the efficiency, accuracy, and student experience of Georgia State University’s on-campus housing check-in process. Using Bizagi Studio, we mapped AS-IS and TO-BE workflows, identified non-value-added steps, and redesigned the process to reduce lead time and operational friction.
-
+ 
+Redesigned Georgia State University's on-campus housing check-in workflow using Lean process improvement principles. Identified and eliminated 4 sequential in-person verification checkpoints from the RA workflow, reducing queue time and removing the most common source of repeated student interactions.
+ 
+Modeled in **Bizagi Studio** across 4 swim lanes (AS-IS) → 5 swim lanes (TO-BE).
+ 
 ---
-
-## My Role
-- Modeled AS-IS and TO-BE workflows in Bizagi Studio  
-- Conducted process analysis and identified inefficiencies  
-- Created KPI definitions and documented requirements  
-- Developed redesign recommendations to streamline verification  
-- Produced process documentation and contributed to final report  
-
+ 
+## The problem
+ 
+The AS-IS process required RAs to perform 4 sequential verification checks on every student at the desk:
+ 
+1. Panther ID verification
+2. Confirmed housing reservation
+3. Financial clearance confirmation
+4. Fire Safety Module score (>8/9) + Resident Information Record completion
+Each failed check sent the student out of the queue with instructions to resolve the issue and return — rejoining the back of the line. This created cascading delays during peak move-in hours across 5 dorm locations.
+ 
+Additional pain points:
+- Key Manager couldn't prepare keys until after RA checks completed, adding waiting time
+- Mismatched access cards triggered a separate RHD database update form
+- Process was inconsistent across Piedmont North, Piedmont Central, Patton Hall, University Lofts, and University Commons
 ---
-
-## Business Context
-Georgia State University Housing aims to provide a safe, inclusive living environment and a smooth move-in experience. Key performance indicators influencing the check-in process include:
-
-- **Retention Rate**  
-- **Occupancy Rate**  
-- **Cost per Student**  
-- **Number of Safety Incidents**  
-- **Student Satisfaction**
-
-The check-in workflow affects both operational efficiency and first-impression experience for thousands of students during move-in season.
-
+ 
+## What changed
+ 
+| | AS-IS | TO-BE |
+|---|---|---|
+| Verification checks | 4 sequential checks at RA desk | Moved to pre-arrival self-service Move-In Form |
+| Student arrival step | Join queue, wait for RA | PantherID scan at lobby computer auto-queues student |
+| Key Manager trigger | Waits for RA checks to complete | Receives student info directly from lobby computer scan |
+| Incomplete students | Rejoin main queue | Resolved before arrival via form error instructions |
+| Swim lanes | 4 (Student, RA, Key Manager, Front Desk) | 5 (+ Lobby Computer) |
+ 
 ---
-
-## Problem Statement
-The existing check-in process contained multiple issues:
-
-- Resident Assistants (RAs) performed repetitive verification checks  
-- Students without completed prerequisites caused bottlenecks  
-- Missing keys or mismatched access cards created delays  
-- Processes varied across dorm locations  
-- Long lines and repeated interactions reduced student satisfaction  
-
-These inefficiencies created additional lead time per student and introduced non-value-added steps.
-
+ 
+## Process metrics defined
+ 
+- **Lead time per student** — total time from queue entry to check-in complete
+- **Error rate** — percentage of applications with missing or incorrect information
+- **Ease of use** — student-facing friction across the check-in flow
 ---
-
-## Approach
-We conducted a full process analysis:
-
-1. **Mapped the AS-IS workflow** using Bizagi  
-2. Identified waste using Lean principles (rework, waiting, motion)  
-3. Defined process metrics (Lead Time, Error Rate, Ease of Use)  
-4. Designed an improved TO-BE workflow  
-5. Proposed technology-supported changes including a self-service check and lobby computer  
-6. Evaluated implementation challenges and mitigation strategies  
-
+ 
+## Skills demonstrated
+ 
+- Bizagi Studio — multi-swimlane AS-IS and TO-BE BPMN workflow modeling
+- Lean process analysis — identifying rework loops, waiting waste, and motion waste
+- KPI definition and requirements documentation
+- Implementation planning — cost constraints, failure modes, change resistance, scope management
 ---
-
-## Key Improvements in the TO-BE Process
-- **Introduced a Lobby Computer:**  
-  Scans PantherIDs and retrieves pre-verified data before students reach the RA or Key Manager.
-
-- **Reduced RA Verification Load:**  
-  Moved documentation and prerequisite checks to a pre-arrival self-service form.
-
-- **Consolidated Key Retrieval Steps:**  
-  Key Manager receives correct info earlier, reducing back-and-forth communication.
-
-- **Minimized Repeat Interactions:**  
-  Eliminated situations where incomplete students rejoined the line multiple times.
-
-These changes reduce total processing time and improve overall student experience.
-
----
-
-## Potential Challenges & Solutions
-| Challenge | Potential Solution |
-|----------|--------------------|
-| Cost to build new precursory check system | Use existing Housing portal and Qualtrics tools |
-| Loss of human interaction | Maintain RAs for essential touchpoints |
-| Lobby computer failure | Provide backup devices or IT onsite |
-| Resistance to change | Highlight benefits and keep scope controlled |
-
----
-
+ 
 ## Files
-- <a href="AS-IS.png" title="My Role: Modeled the AS-IS workflow in Bizagi Studio and documented current process inefficiencies.">AS-IS.png</a>: Original workflow model showing current check-in process  
-
-- <a href="TO-BE.png" title="My Role: Designed the TO-BE workflow, removed non-value-added steps, and created streamlined verification logic.">TO-BE.png</a>: Redesigned workflow with reduced steps  
-
-- <a href="Project PP.pdf" title="My Role: Wrote sections on process analysis, KPI evaluation, and recommendations for implementation.">Project_PP.pdf</a>: Full project summary with diagrams and business recommendations  
-
+ 
+- `AS-IS.png` — original 4-lane workflow with annotated waste
+- `TO-BE.png` — redesigned 5-lane workflow with lobby computer integration
+- `Project_PP.pdf` — full report with diagrams, critique, and recommendations
 ---
-
-## Skills Demonstrated
-- Bizagi Studio (workflow modeling)  
-- Process Analysis  
-- Process Improvement / Lean Thinking  
-- Requirements Documentation  
-- KPI Definition & Evaluation  
-- Presentation & Technical Communication  
-
----
-
-## Contact
-**Zachary Chai**  
-📩 zachchainy@gmail.com  
-🔗 LinkedIn: linkedin.com/in/zach-chai/
-
+ 
+## Team & context
+ 
+Capstone project · CIS 4120 · Georgia State University  
+Team: Dalitso Moyo, Zachary Chai, Emmanuel Clark, Matthew Humphrise  
+Role: process modeling, inefficiency analysis, KPI documentation, redesign recommendations
+ 
