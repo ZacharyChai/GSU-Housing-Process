@@ -50,11 +50,10 @@ Additional pain points:
 ---
  
 ## Files
- 
-- `AS-IS.png` — original 4-lane workflow with annotated waste
-- `TO-BE.png` — redesigned 5-lane workflow with lobby computer integration
-- `Project_PP.pdf` — full report with diagrams, critique, and recommendations
----
+
+- [AS-IS.png](AS-IS.png) — original 4-lane workflow with annotated waste
+- [TO-BE.png](TO-BE.png) — redesigned 5-lane workflow with lobby computer integration
+- [Project PP.pdf](Project%20PP.pdf) — full report with diagrams, critique, and recommendations
  
 ## Team & context
  
